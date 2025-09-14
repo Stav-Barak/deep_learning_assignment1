@@ -1,4 +1,4 @@
-# deep_learning_assignment1
+# deep_learning_mnist_classification
 
 This repository contains the implementation of Assignment 1 in the Deep Learning course at Ben-Gurion University.  
 The project implements a fully connected neural network from scratch, using PyTorch, to classify handwritten digits from the MNIST dataset.  
