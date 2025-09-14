@@ -47,3 +47,4 @@ The assignment focuses on gaining a deep understanding of forward and backward p
 Install the required dependencies:
 ```bash
 pip install torch torchvision numpy matplotlib
+
