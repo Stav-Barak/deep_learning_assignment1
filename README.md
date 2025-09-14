@@ -47,4 +47,13 @@ The assignment focuses on gaining a deep understanding of forward and backward p
 Install the required dependencies:
 ```bash
 pip install torch torchvision numpy matplotlib
+```
 
+---
+
+## Run
+1. Open the Jupyter notebook: jupyter notebook 207547183_206477952.ipynb.
+2. Run all cells to train the model.
+3. The notebook will output training progress, validation results, and final test accuracy.
+
+---
