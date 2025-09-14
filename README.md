@@ -12,8 +12,8 @@ The assignment focuses on gaining a deep understanding of forward and backward p
 
 ## Project Structure
 
-- `207547183_206477952.ipynb` – Jupyter Notebook with the full implementation and experiments  
-- `207547183_206477952.pdf` – Report summarizing design, implementation details, and results  
+- `mnist_classification.ipynb` – Jupyter Notebook with the full implementation and experiments  
+- `mnist_classification_report.pdf` – Report summarizing design, implementation details, and results  
 
 ---
 
@@ -52,7 +52,7 @@ pip install torch torchvision numpy matplotlib
 ---
 
 ## Run
-1. Open the Jupyter notebook: jupyter notebook 207547183_206477952.ipynb.
+1. Open the Jupyter notebook: jupyter notebook mnist_classification.ipynb.
 2. Run all cells to train the model.
 3. The notebook will output training progress, validation results, and final test accuracy.
 
