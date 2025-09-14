@@ -52,7 +52,7 @@ pip install torch torchvision numpy matplotlib
 ---
 
 ## Run
-1. Open the Jupyter notebook: jupyter notebook mnist_classification.ipynb.
+1. Open the Jupyter notebook: mnist_classification.ipynb.
 2. Run all cells to train the model.
 3. The notebook will output training progress, validation results, and final test accuracy.
 
